@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/marathon/csharp/1002/bin/Debug/net7.0/1002
+/home/abraao284/Desktop/projects/marathon/csharp/1002/bin/Debug/net7.0/1002.deps.json
+/home/abraao284/Desktop/projects/marathon/csharp/1002/bin/Debug/net7.0/1002.runtimeconfig.json
+/home/abraao284/Desktop/projects/marathon/csharp/1002/bin/Debug/net7.0/1002.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1002/bin/Debug/net7.0/1002.pdb
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/refint/1002.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.pdb
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/1002.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1002/obj/Debug/net7.0/ref/1002.dll
