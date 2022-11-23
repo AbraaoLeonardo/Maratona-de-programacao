@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/marathon/csharp/1011/bin/Debug/net7.0/1011
+/home/abraao284/Desktop/projects/marathon/csharp/1011/bin/Debug/net7.0/1011.deps.json
+/home/abraao284/Desktop/projects/marathon/csharp/1011/bin/Debug/net7.0/1011.runtimeconfig.json
+/home/abraao284/Desktop/projects/marathon/csharp/1011/bin/Debug/net7.0/1011.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1011/bin/Debug/net7.0/1011.pdb
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/refint/1011.dll
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.pdb
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/1011.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/marathon/csharp/1011/obj/Debug/net7.0/ref/1011.dll
