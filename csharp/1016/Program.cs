@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        num = int.Parse(Console.ReadLine());
+        int num = int.Parse(Console.ReadLine());
         Console.WriteLine((num * 2) + "  minutos");
     }
 }
